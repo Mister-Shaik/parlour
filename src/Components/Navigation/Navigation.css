@@ -1,0 +1,28 @@
+.nav{
+    background-color: #5517a077;
+    background-image: url('./nav-bg.jpg');
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: cover;
+    margin:0;
+}
+
+.nav-link{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.3em;
+    text-align: right;
+}
+
+.navbar-toggler{
+    background: rgba(0,0,0,0.25);
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255,0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
