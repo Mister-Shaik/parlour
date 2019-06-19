@@ -1,3 +1,37 @@
 [
-    
+    {
+        "head" : "COLOURING",
+        "id":2,
+        "content" : "<p>Whether you’re covering up greys or you just love to experiment, hair coloring is the simplest way to reinvent your look.</p><p>We use henna for all our coloring services, which include root touch up and global colouring. We will transform your hair from plain to vibrant colour.</p>"
+    },
+    {
+        "head" : "SPA",
+        "id":5,
+        "content" : "<p>There is nothing more relaxing than a good hair spa treatment. Hair spa is a healthy indulgence that exfoliates your hair, stimulates your scalp and promotes hair growth.</p><p>A hair spa treatment is the best solution for dry, frizzy hair. It also relaxes your body and relieves stress. That’s the best part about hair spa!</p>"
+    },
+    {
+        "head" : "STRAIGHTENING",
+        "id":6,
+        "content" : "<p>Ever wish you had straight, silky hair like your favourite actress? Your wish is our command! will ensure you get a damage-free hair straightening treatment because we only use safe and tested brands.</p><p>So opt for our hair smoothening service and keep your hair and yourself worry-free.</p>"
+    },
+    {
+        "head" : "FACE CLEANUP",
+        "id":1,
+        "content" : "<p>A face cleanup is important to keep your skin healthy, hydrated and glowing!</p><p>We offer a face cleanup for every skin type – be it oily, normal, dry, combination or acne prone. The relaxing massage strokes during a face cleanup nourish your skin from deep within, relieving stress.</p>"
+    },
+    {
+        "head" : "FACIAL",
+        "id":3,
+        "content" : "<p>A facial is not just about pampering yourself, it also does wonders for your skin! A facial done by a professional, deep cleans and hydrates your skin as well as relieves acne. A good facial also improves blood circulation, giving your skin a healthy glow.</p><p>We use products containing vital minerals and nutrients that reduce wrinkles and remove dead skin, giving you a youthful appearance. Black mud, fruit acids, vitamins, enzymes, gold and anti-oxidants are just a few of the special ingredients found in our facials.</p>"
+    },
+    {
+        "head" : "FACE BLEACHING",
+        "id":0,
+        "content" : "<p>Face bleaching is effective yet gentle on your skin. Face bleaching is the best way to de-tan quickly, while adding brightness to your skin.</p><p>We bleach your face using techniques that do not damage, harm or change the texture of your skin. A face bleaching done at our beauty parlour leaves you with skin that’s fairer, fresher and flawless!</p>"
+    },
+    {
+        "head" : "FACIAL MASKS",
+        "id":4,
+        "content" : "<p>A facial mask is a beauty and cleansing treatment that is designed to tackle specific problems. A facial mask deep cleans and brightens your skin as well as heals acne scars and hyper-pigmentation.</p>"
+    }
 ]
