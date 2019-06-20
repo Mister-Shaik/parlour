@@ -9,8 +9,19 @@ const Home = () => {
     });
 
     return(
-        <div className="row justify-around mt4 mh1">
-            {UserArray}
+        <div className="mv4">
+            <div className="tab-content" id="myTabContent">
+                <div className="mh0 tab-pane fade show active row justify-around" id="home" role="tabpanel" aria-labelledby="home-tab">{UserArray}</div>
+                <div className="tab-pane fade row" id="profile" role="tabpanel" aria-labelledby="profile-tab"></div>
+            </div>
+            <ul className="nav nav-tabs fixed-bottom justify-center" id="myTab" role="tablist">
+                <li className="nav-item bg-purple">
+                    <a className="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">English</a>
+                </li>
+                <li className="nav-item bg-purple">
+                    <a className="nav-link black" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">తెలుగు</a>
+                </li>
+            </ul>
         </div>
     )
 };

@@ -5,7 +5,7 @@ import './Navigation.css';
 
 const Navigation = () => {
     return(
-        <div className="nav pb4 w-100">
+        <div className="nav nav-nav pb4 w-100">
         <nav class="navbar navbar-expand-md w-100">
             <Link class="navbar-brand f3 white" to="/">Noor Beauty Parlour</Link>
             <button class="navbar-toggler grow" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

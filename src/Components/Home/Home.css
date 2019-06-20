@@ -7,3 +7,11 @@
 .img-home{
     height: 150px;
 }
+
+.nav-item > a {
+    color: black;
+}
+
+.tab-content > .active {
+    display:flex
+}
